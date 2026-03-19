@@ -4,20 +4,14 @@
 
 </div>
 
----
-
 <div align="center">
 
 ### 👩‍💻 About Me
 
-```
 B.Tech CSE Student  •  Full Stack Developer  •  DSA & ML Learner
 Building real-world solutions, one commit at a time.
-```
 
 </div>
-
----
 
 ### 🛠️ Tech Stack
 
@@ -33,7 +27,6 @@ Building real-world solutions, one commit at a time.
 
 </div>
 
----
 
 ### 🚀 Featured Projects
 
@@ -44,19 +37,14 @@ Building real-world solutions, one commit at a time.
 | 📌 **[Pinterest Clone](https://github.com/salonipandey-dev)** | Frontend masonry grid UI replicating Pinterest's core experience | HTML, CSS, JS |
 | 🌐 **[Portfolio Website](https://github.com/salonipandey-dev)** | Personal dev portfolio showcasing projects and skills | HTML, CSS, JS |
 
----
 
 ### 📚 Currently Learning
-
-```python
+python
 learning_stack = {
     "DSA"              : "Arrays → Trees → Graphs → DP 🧠",
     "Machine Learning" : "Supervised → Unsupervised → Neural Nets 🤖",
     "Full Stack Dev"   : "Frontend → Backend → System Design 🏗️"
 }
-```
-
----
 
 ### 📊 GitHub Stats
 
@@ -73,8 +61,6 @@ learning_stack = {
 
 </div>
 
----
-
 ### 🏆 GitHub Trophies
 
 <div align="center">
@@ -82,8 +68,6 @@ learning_stack = {
 ![Trophies](https://github-profile-trophy.vercel.app/?username=salonipandey-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
-
----
 
 <div align="center">
 
@@ -98,8 +82,6 @@ learning_stack = {
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=salonipandey-dev.salonipandey-dev)
 
 </div>
-
----
 
 <div align="center">
 
