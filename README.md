@@ -1,7 +1,6 @@
 <div align="center">
 
-![header](https://github.com/salonipandey-dev/salonipandey-dev/blob/main/assets/header.png)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=89B4FA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;DSA+%26+ML+Learner+%F0%9F%A7%A0;Building+Real-World+Solutions+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=89B4FA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Saloni+Pandey+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;DSA+Problem+Solver+%F0%9F%A7%A0;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,21 +10,14 @@
 
 ```python
 class SaloniPandey:
-    def __init__(self):
-        self.name        = "Saloni Pandey"
-        self.degree      = "B.Tech CSE"
-        self.location    = "India 🇮🇳"
-        self.focus       = ["Full Stack Dev", "DSA", "Machine Learning", "System Design"]
-        self.languages   = ["Java", "Python", "JavaScript", "HTML", "CSS"]
-        self.tools       = ["Git", "GitHub", "VS Code"]
-        self.goal        = "Land a kickass SWE role & keep shipping cool stuff 🚀"
-        self.status      = "Open to Internships & Opportunities 💼"
-
-    def greet(self):
-        return "Hey! Let's build something awesome together 🤝"
-
-me = SaloniPandey()
-print(me.greet())
+    name     = "Saloni Pandey"
+    degree   = "B.Tech CSE"
+    location = "India 🇮🇳"
+    focus    = ["Full Stack Development", "DSA & Problem Solving", "AI & ML"]
+    stack    = ["Java", "Python", "JavaScript", "HTML", "CSS"]
+    tools    = ["Git", "GitHub", "VS Code"]
+    status   = "Open to Internships & Opportunities 💼"
+    motto    = "Code. Break. Fix. Ship. Repeat. 🚀"
 ```
 
 ---
@@ -34,23 +26,14 @@ print(me.greet())
 
 <div align="center">
 
-### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Currently Exploring
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-6C3483?style=for-the-badge&logo=leetcode&logoColor=white)
 
 </div>
 
@@ -58,16 +41,12 @@ print(me.greet())
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-| 🏷️ Project | 📝 Description | 🛠️ Tech Stack |
-|---|---|---|
-| 🐾 **ResQPaws** | Web platform connecting injured animals with faster rescue networks | HTML • CSS • JS |
-| 🎵 **Spotify Clone** | Fully responsive music player UI with playlist interactions | HTML • CSS • JS |
-| 📌 **Pinterest Clone** | Masonry grid frontend replicating Pinterest's core experience | HTML • CSS • JS |
-| 🌐 **Portfolio Website** | Personal dev portfolio showcasing projects, skills & contact | HTML • CSS • JS |
-
-</div>
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🐾 **ResQPaws** | Web platform to help injured animals get faster rescue | HTML • CSS • JS |
+| 🎵 **Spotify Clone** | Responsive music player UI with playlist interactions | HTML • CSS • JS |
+| 📌 **Pinterest Clone** | Masonry grid frontend replicating Pinterest's experience | HTML • CSS • JS |
+| 🌐 **Portfolio Website** | Personal dev portfolio showcasing projects & skills | HTML • CSS • JS |
 
 ---
 
@@ -75,12 +54,10 @@ print(me.greet())
 
 ```python
 roadmap = {
-    "DSA"              : "Arrays → Linked Lists → Trees → Graphs → DP 🧠",
-    "Machine Learning" : "Supervised → CNNs → NLP → LLMs 🤖",
-    "Full Stack"       : "React → Node.js → Databases → Deployment 🏗️",
-    "System Design"    : "Scalability → Load Balancers → Caching 📐"
+    "DSA"           : "Arrays → Trees → Graphs → Dynamic Programming 🧠",
+    "Full Stack"    : "React → Node.js → Databases → System Design 🏗️",
+    "AI & ML"       : "Supervised Learning → Neural Nets → NLP → LLMs 🤖"
 }
-
 status = "grinding daily 🔥"
 ```
 
@@ -94,9 +71,7 @@ status = "grinding daily 🔥"
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonipandey-dev&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=salonipandey-dev&theme=tokyonight&hide_border=true" height="170"/>
 
@@ -104,17 +79,7 @@ status = "grinding daily 🔥"
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=salonipandey-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6)
-
-</div>
-
----
-
-## 💬 Let's Connect!
+## 💬 Let's Connect
 
 <div align="center">
 
@@ -133,10 +98,8 @@ status = "grinding daily 🔥"
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+*"Always learning. Always building. Always growing."* 🌱
 
-*"Code. Break. Fix. Ship. Repeat."* 🚀
-
-**⭐ Drop a star on my repos if you find them useful!**
+⭐ **Drop a star on my repos if you find them useful!**
 
 </div>
