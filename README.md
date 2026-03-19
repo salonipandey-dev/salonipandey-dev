@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saloni%20Pandey&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20AI%20%26%20ML%20Learner%20%7C%20Problem%20Solver&descAlignY=56&descFontSize=17" />
-
+![header](https://github.com/salonipandey-dev/salonipandey-dev/blob/main/assets/header.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=89B4FA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;DSA+%26+ML+Learner+%F0%9F%A7%A0;Building+Real-World+Solutions+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
