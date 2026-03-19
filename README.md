@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saloni%20Pandey&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20AI%20%26%20ML%20Learner%20%7C%20Problem%20Solver&descAlignY=56&descFontSize=17" />
@@ -11,6 +10,7 @@
 
 ## 👩‍💻 About Me
 
+```python
 class SaloniPandey:
     def __init__(self):
         self.name        = "Saloni Pandey"
@@ -27,6 +27,7 @@ class SaloniPandey:
 
 me = SaloniPandey()
 print(me.greet())
+```
 
 ---
 
@@ -50,7 +51,7 @@ print(me.greet())
 
 ### Currently Exploring
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Data Structures](https://img.shields.io/badge/DSA-6C3483?style=for-the-badge&logo=leetcode&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-6C3483?style=for-the-badge&logo=leetcode&logoColor=white)
 
 </div>
 
@@ -60,12 +61,12 @@ print(me.greet())
 
 <div align="center">
 
-| 🏷️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
-|---|---|---|---|
-| 🐾 **ResQPaws** | Web platform connecting injured animals with faster rescue networks | HTML • CSS • JS | [View →](https://github.com/salonipandey-dev) |
-| 🎵 **Spotify Clone** | Fully responsive music player UI with playlist interactions | HTML • CSS • JS | [View →](https://github.com/salonipandey-dev) |
-| 📌 **Pinterest Clone** | Masonry grid frontend replicating Pinterest's core experience | HTML • CSS • JS | [View →](https://github.com/salonipandey-dev) |
-| 🌐 **Portfolio Website** | Personal dev portfolio showcasing projects, skills & contact | HTML • CSS • JS | [View →](https://github.com/salonipandey-dev) |
+| 🏷️ Project | 📝 Description | 🛠️ Tech Stack |
+|---|---|---|
+| 🐾 **ResQPaws** | Web platform connecting injured animals with faster rescue networks | HTML • CSS • JS |
+| 🎵 **Spotify Clone** | Fully responsive music player UI with playlist interactions | HTML • CSS • JS |
+| 📌 **Pinterest Clone** | Masonry grid frontend replicating Pinterest's core experience | HTML • CSS • JS |
+| 🌐 **Portfolio Website** | Personal dev portfolio showcasing projects, skills & contact | HTML • CSS • JS |
 
 </div>
 
@@ -75,10 +76,10 @@ print(me.greet())
 
 ```python
 roadmap = {
-    "DSA"           : "Arrays → Linked Lists → Trees → Graphs → DP 🧠",
+    "DSA"              : "Arrays → Linked Lists → Trees → Graphs → DP 🧠",
     "Machine Learning" : "Supervised → CNNs → NLP → LLMs 🤖",
-    "Full Stack"    : "React → Node.js → Databases → Deployment 🏗️",
-    "System Design" : "Scalability → Load Balancers → Caching → Microservices 📐"
+    "Full Stack"       : "React → Node.js → Databases → Deployment 🏗️",
+    "System Design"    : "Scalability → Load Balancers → Caching 📐"
 }
 
 status = "grinding daily 🔥"
@@ -90,13 +91,15 @@ status = "grinding daily 🔥"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=salonipandey-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonipandey-dev&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=salonipandey-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonipandey-dev&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-<br/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salonipandey-dev&theme=tokyonight&hide_border=true" height="175"/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=salonipandey-dev&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -112,32 +115,6 @@ status = "grinding daily 🔥"
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=salonipandey-dev&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salonipandey-dev/salonipandey-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salonipandey-dev/salonipandey-dev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salonipandey-dev/salonipandey-dev/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-> ⚙️ **Setup:** Add [this GitHub Action](https://github.com/Platane/snk) to auto-generate the snake animation from your contributions!
-
----
-
 ## 💬 Let's Connect!
 
 <div align="center">
@@ -145,7 +122,7 @@ status = "grinding daily 🔥"
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salonipandey-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salonipandey-dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://salonipandey-dev.github.io)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 <br/>
 
@@ -157,17 +134,7 @@ status = "grinding daily 🔥"
 
 <div align="center">
 
-### 💡 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 *"Code. Break. Fix. Ship. Repeat."* 🚀
 
