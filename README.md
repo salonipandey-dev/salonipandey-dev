@@ -11,7 +11,6 @@
 
 ## 👩‍💻 About Me
 
-```python
 class SaloniPandey:
     def __init__(self):
         self.name        = "Saloni Pandey"
@@ -28,7 +27,6 @@ class SaloniPandey:
 
 me = SaloniPandey()
 print(me.greet())
-```
 
 ---
 
