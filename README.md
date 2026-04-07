@@ -19,7 +19,7 @@ style="width:100%; max-width:100%;"
 
 ---
 
-## 💻 `$ whoami`
+## 💻 `$ who am i`
 
 ```python
 class SaloniPandey:
@@ -63,9 +63,9 @@ class SaloniPandey:
 
 | Project                                                                | Description                                       | Stack       |
 | ---------------------------------------------------------------------- | ------------------------------------------------- | ----------- |
-| 🐾 [ResQPaws](https://github.com/your-username/resqpaws)               | Platform connecting injured animals with rescuers | HTML CSS JS |
-| 🎵 [Spotify Clone](https://github.com/your-username/spotify-clone)     | Music player UI with playlist interactions        | HTML CSS JS |
-| 📌 [Pinterest Clone](https://github.com/your-username/pinterest-clone) | Masonry grid UI like Pinterest                    | HTML CSS JS |
+| 🐾 [ResQPaws](https://github.com/salonipandey-dev/resqpaws)               | Platform connecting injured animals with rescuers | HTML CSS JS |
+| 🎵 [Spotify Clone](https://github.com/salonipandey-dev/spotify-clone)     | Music player UI with playlist interactions        | HTML CSS JS |
+| 📌 [Pinterest Clone](https://github.com/salonipandey-dev/pinterest-clone) | Masonry grid UI like Pinterest                    | HTML CSS JS |
 | 🌐 [Portfolio](https://github.com/salonipandey-dev/myportfolio)        | Personal portfolio website                        | HTML CSS JS |
 
 </div>
