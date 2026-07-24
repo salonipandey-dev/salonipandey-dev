@@ -2,7 +2,7 @@
 
 <img 
 src="https://capsule-render.vercel.app/api?type=waving&color=0:89b4fa,100:cba6f7&height=160&section=header&text=Saloni%20Pandey&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DSA%20%7C%20AI%20%26%20ML&descAlignY=58&descSize=15" 
-style="width:100%; max-width:100%;" 
+style="width:100%; max-width:100%;"
 />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=18\&pause=1000\&color=89B4FA\&center=true\&vCenter=true\&width=550\&lines=Building+things+that+matter+🚀;Code.+Break.+Fix.+Ship.+Repeat.+🔁;Open+to+Internships+%26+Opportunities+💼;Always+Learning%2C+Always+Growing+🌱)](https://git.io/typing-svg)
