@@ -1,349 +1,143 @@
-
 <div align="center">
 
-<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89b4fa,100:cba6f7&height=185&section=header&text=Saloni%20Pandey&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20Java%20%26%20DSA%20%7C%20B.Tech%20CSE&descAlignY=60&descSize=16" width="100%" alt="Saloni Pandey — Aspiring Data Analyst | Java & DSA | B.Tech CSE" />
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:89b4fa,100:cba6f7&height=190&section=header&text=Saloni%20Pandey&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20Full%20Stack%20%7C%20DSA%20%7C%20AI%20%26%20ML&descAlignY=58&descSize=16"
-/>
+Understanding data. Solving problems. Building useful projects.
 
-### Building. Learning. Breaking. Fixing. Shipping. 🚀
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=17\&pause=1200\&color=89B4FA\&center=true\&vCenter=true\&width=650\&lines=Building+things+that+matter+%F0%9F%9A%80;Turning+ideas+into+working+software+%F0%9F%92%BB;Solving+problems+with+DSA+%F0%9F%A7%A0;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Code.+Break.+Fix.+Ship.+Repeat.+%F0%9F%94%81)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://github.com/salonipandey-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/saloni-pandey-56b216290/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:salonipandey0716@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=salonipandey-dev&style=for-the-badge&color=89b4fa&label=PROFILE+VIEWS"/>
+<a href="https://www.linkedin.com/in/saloni-pandey-56b216290/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:salonipandey0716@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Saloni" /></a>
+<a href="https://github.com/salonipandey-dev/myportfolio"><img src="https://img.shields.io/badge/Portfolio_Source-242938?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source code" /></a>
 
 </div>
 
----
+👋 About me
 
-# 👩🏻‍💻 About Me
+I'm Saloni Pandey, a B.Tech Computer Science & Engineering student at Sanskriti University, Mathura, India.
 
-```python
-class SaloniPandey:
+My primary career focus is data analytics. I'm learning to use SQL, Python, Excel, and Power BI to explore data, answer business questions, and communicate useful insights. Alongside analytics, I'm strengthening my problem-solving skills through DSA in Java and applying my development skills to practical projects.
 
-    role = "Computer Science Engineer"
-    education = "B.Tech — Computer Science & Engineering"
-    location = "India 🇮🇳"
+📊 Career direction: Data Analyst internships and entry-level analytics roles.
 
-    currently_learning = [
-        "Data Structures & Algorithms",
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Machine Learning"
-    ]
+☕ Problem solving: Java, data structures, algorithms, and complexity analysis.
 
-    primary_language = "Java ☕"
+🛠️ Project focus: Developing MedAssist and improving the clarity and quality of my existing work.
 
-    goal = "Build strong engineering fundamentals + real-world software"
+🌱 Approach: Learn → Practice → Build → Publish → Apply.
 
-    mindset = "Learn → Build → Break → Debug → Improve → Repeat 🚀"
-```
+🎯 What I'm learning and practicing
 
-> 💡 **I enjoy turning ideas into practical projects, solving problems with code, and continuously learning technologies that make me a better engineer.**
+Focus
 
----
+Topics I'm working toward
 
-# 🧠 What I'm Working On
+How I aim to demonstrate them
+
+SQL
+
+Filtering, joins, aggregations, subqueries, CTEs, window functions
+
+Queries that answer specific business questions
+
+Python for analytics
+
+Python fundamentals, pandas, NumPy, data cleaning, exploratory analysis
+
+Reproducible notebooks with clear findings
+
+Excel
+
+Formulas, lookups, PivotTables, cleaning, charts
+
+Practical reports and concise dashboards
+
+Power BI
+
+Power Query, data modeling, DAX, visualization
+
+Dashboards with defined KPIs and actionable insights
+
+Statistics
+
+Descriptive statistics, distributions, sampling, hypothesis testing
+
+Clear explanations of results and limitations
+
+Java & DSA
+
+Arrays, strings, hashing, searching, sorting, recursion
+
+Explained solutions with time and space complexity
+
+This is my learning focus, not a claim of proficiency in every topic listed.
+
+🚀 Project spotlight
+
+🩺 MedAssist · In development
+
+A healthcare triage and patient management project.
+
+I'm developing this academic project while learning how frontend interfaces, backend APIs, and databases fit together. My current priority is building and documenting the core workflows, with AI-assisted features treated as future development.
+
+Learning focus: application structure · API integration · database design · clear documentation
+
+🐾 ResQPaws
+
+An animal rescue and emergency response project.
+
+A project centered on connecting animal rescue needs with rescuers. My improvement goals include clearer user journeys, a more polished interface, and better setup documentation.
+
+💻 Personal Portfolio
+
+A place to present my projects and learning journey.
+
+I'm refining how I explain each project's purpose, my work, and the skills it demonstrates.
+
+<details>
+<summary><b>More web development practice</b></summary>
+
+Spotify Clone — Music-player interface practice.
+
+Pinterest Clone — Visual layout and interface practice.
+
+</details>
+
+📊 Analytics portfolio direction
+
+I'm working toward an end-to-end analytics project that connects:
+
+Business question → Data cleaning → SQL analysis → Dashboard → Insights & recommendations
+
+My goal is to publish work with a documented dataset, reproducible analysis, clearly defined metrics, and an honest explanation of the findings and limitations.
+
+An analytics project will be featured here when its analysis and dashboard are ready to review.
+
+🧩 My DSA practice approach
+
+I practice DSA in Java, focusing on understanding the approach and recognizing reusable patterns.
+
+Start with a straightforward solution and explain why it works.
+
+Identify opportunities to improve time or space complexity.
+
+Test edge cases and write readable code.
+
+Revisit difficult problems and explain the solution in my own words.
+
+Current foundation: Java basics · OOP · Arrays · Strings · Hashing · Searching & Sorting
+
+🤝 Let's connect
+
+I'm interested in Data Analyst internships, entry-level analytics opportunities, and collaborative projects where I can contribute, receive feedback, and develop practical skills.
+
+📫 salonipandey0716@gmail.com
+💼 Connect on LinkedIn
+
+Outside code: music, crochet, creative design, K-dramas, and a good cup of coffee. ☕
 
 <div align="center">
 
-| 🎯 Area             | 🔥 Current Focus                                      |
-| ------------------- | ----------------------------------------------------- |
-| 💻 **DSA**          | Arrays → Strings → Linked Lists → Trees → Graphs → DP |
-| 🌐 **Full Stack**   | React → Node.js → Express → MongoDB → REST APIs       |
-| 🤖 **AI / ML**      | Python → Data Processing → ML → Neural Networks       |
-| ☕ **Core CS**       | OOP → DBMS → OS → Computer Networks                   |
-| 🛠️ **Engineering** | Git → GitHub → APIs → Deployment → System Design      |
+Learning matters. Finished work shows what I can do.
 
-</div>
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-
-### 🧠 AI / Data
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🐾 ResQPaws
-
-**Animal Rescue & Emergency Response Platform**
-
-A platform designed to connect injured animals with rescuers and provide a structured rescue workflow.
-
-**Tech:** HTML • CSS • JavaScript • Node.js • Express • MongoDB
-
-🔗 [View Repository](https://github.com/salonipandey-dev/resqpaws)
-
-</td>
-
-<td width="50%">
-
-### 🌧️ JalNidhi
-
-**AI-Powered Rooftop Rainwater Harvesting**
-
-A sustainability-focused project that explores rooftop rainwater harvesting and intelligent water management.
-
-**Tech:** AI • Web Development • Data
-
-🔗 [View Repository](https://github.com/Engineer-Bhai/RoofTop_Rainwater_Harvesting)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎵 Spotify Clone
-
-**Music Player Web Interface**
-
-A responsive music-player interface inspired by Spotify with playlist and interaction features.
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 [View Repository](https://github.com/salonipandey-dev/spotify-clone)
-
-</td>
-
-<td width="50%">
-
-### 📌 Pinterest Clone
-
-**Visual Discovery UI**
-
-A responsive masonry-style interface inspired by Pinterest.
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 [View Repository](https://github.com/salonipandey-dev/pinterest-clone)
-
-</td>
-</tr>
-</table>
-
----
-
-# 📈 Current Learning Progress
-
-```text
-DSA & Problem Solving
-██████████░░░░░░░░░░  50%
-
-Full Stack Development
-████████████░░░░░░░░  60%
-
-AI & Machine Learning
-███████░░░░░░░░░░░░░  35%
-
-Core Computer Science
-██████████░░░░░░░░░░  50%
-
-System Design
-███░░░░░░░░░░░░░░░░░  15%
-```
-
-> These percentages represent my **current learning journey**, not fixed skill ratings.
-> The goal is progress, not perfection. 🌱
-
----
-
-# 🧩 Problem Solving
-
-<div align="center">
-
-### DSA Roadmap
-
-`Arrays` → `Strings` → `Linked Lists` → `Stacks & Queues` → `Trees` → `Graphs` → `Dynamic Programming`
-
-<br/>
-
-### Engineering Roadmap
-
-`Java` → `OOP` → `DSA` → `DBMS` → `OS` → `CN` → `System Design`
-
-</div>
-
----
-
-# 🤖 AI / ML Journey
-
-```text
-Python
-  ↓
-NumPy / Pandas
-  ↓
-Data Cleaning & Preprocessing
-  ↓
-Statistics & Mathematics
-  ↓
-Supervised Learning
-  ↓
-Unsupervised Learning
-  ↓
-Neural Networks
-  ↓
-Deep Learning
-  ↓
-NLP / Computer Vision
-  ↓
-Generative AI & LLMs
-```
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=salonipandey-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"
-width="48%"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonipandey-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-width="48%"
-/>
-
-<br/><br/>
-
-<img
-src="https://streak-stats.demolab.com/?user=salonipandey-dev&theme=tokyonight&hide_border=true"
-width="70%"
-/>
-
-<br/><br/>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=salonipandey-dev&theme=tokyo-night&hide_border=true&area=true&hide_title=true"
-width="100%"
-/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=salonipandey-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"
-width="100%"
-/>
-
-</div>
-
----
-
-# 🌱 Beyond Code
-
-```text
-☕ Coffee + Coding
-🎨 UI / Creative Design
-🧶 Crochet
-🎬 K-Dramas
-🎵 Music
-💡 Exploring New Ideas
-🌍 Dreaming Bigger
-```
-
----
-
-# 💼 Open to Opportunities
-
-<div align="center">
-
-### 🚀 Looking for
-
-**Software Engineering Internships**
-**Full Stack Development Opportunities**
-**AI / ML Projects & Collaborations**
-
-<br/>
-
-I'm always interested in building meaningful projects,
-learning from experienced developers, and solving real-world problems.
-
-<br/>
-
-<a href="mailto:salonipandey0716@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💭 Developer Philosophy
-
-<div align="center">
-
-> **"Consistency compounds. Keep showing up."** 🌱
-
-<br/>
-
-`Learn → Build → Fail → Debug → Improve → Repeat`
-
-<br/>
-
-### ⭐ If you find my projects useful, consider giving them a star!
-
-</div>
-
----
-
-<div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,100:89b4fa&height=120&section=footer"
-/>
-
-**Thanks for stopping by! 💜**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,100:89b4fa&height=90&section=footer" width="100%" alt="" />
 
 </div>
