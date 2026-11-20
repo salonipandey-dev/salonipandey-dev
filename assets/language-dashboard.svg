@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="342" viewBox="0 0 960 342" role="img"><title>Primary languages of public repositories, 20 November 2026</title>
+<rect x="0" y="0" width="960" height="342" fill="#102820"/>
+<rect x="489" y="1" width="470" height="340" fill="#201c17"/>
+<path d="M1 1H959V341H1Z" fill="none" stroke="#806b48" stroke-width="1" />
+<path d="M489 18V324" fill="none" stroke="#806b48" stroke-width="1" />
+<text x="32" y="44" font-family="Georgia, serif" font-size="27" fill="#fff1cd" >Language radar</text>
+<text x="519" y="44" font-family="Georgia, serif" font-size="27" fill="#fff1cd" >Public repositories</text>
+<path d="M246.0 159.0 L267.7 171.5 L267.7 196.5 L246.0 209.0 L224.3 196.5 L224.3 171.5Z" fill="none" stroke="#608273" stroke-width="1" />
+<path d="M246.0 134.0 L289.3 159.0 L289.3 209.0 L246.0 234.0 L202.7 209.0 L202.7 159.0Z" fill="none" stroke="#608273" stroke-width="1" />
+<path d="M246.0 109.0 L311.0 146.5 L311.0 221.5 L246.0 259.0 L181.0 221.5 L181.0 146.5Z" fill="none" stroke="#608273" stroke-width="1" />
+<path d="M246 184L246.0 109.0" fill="none" stroke="#486456" stroke-width="0.9" />
+<path d="M246 184L310.9519052838329 146.5" fill="none" stroke="#486456" stroke-width="0.9" />
+<path d="M246 184L310.9519052838329 221.5" fill="none" stroke="#486456" stroke-width="0.9" />
+<path d="M246 184L246.0 259.0" fill="none" stroke="#486456" stroke-width="0.9" />
+<path d="M246 184L181.0480947161671 221.50000000000003" fill="none" stroke="#486456" stroke-width="0.9" />
+<path d="M246 184L181.0480947161671 146.5" fill="none" stroke="#486456" stroke-width="0.9" />
+<path d="M246.0 109.0 L289.3 159.0 L289.3 209.0 L246.0 209.0 L224.3 196.5 L224.3 171.5Z" fill="#237858" stroke="#66d9aa" stroke-width="2.3" />
+<circle cx="246.0" cy="109.0" r="3" stroke="#f0d097" stroke-width="1" fill="#debc79"/>
+<text x="246" y="91" font-family="sans-serif" font-size="16" fill="#edebda" text-anchor="middle">HTML</text>
+<circle cx="289.30127018922195" cy="159.0" r="3" stroke="#f0d097" stroke-width="1" fill="#debc79"/>
+<text x="331" y="140" font-family="sans-serif" font-size="16" fill="#edebda" text-anchor="start">Python</text>
+<circle cx="289.30127018922195" cy="209.0" r="3" stroke="#f0d097" stroke-width="1" fill="#debc79"/>
+<text x="331" y="238" font-family="sans-serif" font-size="16" fill="#edebda" text-anchor="start">TypeScript</text>
+<circle cx="246.0" cy="209.0" r="3" stroke="#f0d097" stroke-width="1" fill="#debc79"/>
+<text x="246" y="287" font-family="sans-serif" font-size="16" fill="#edebda" text-anchor="middle">Java</text>
+<circle cx="224.34936490538905" cy="196.5" r="3" stroke="#f0d097" stroke-width="1" fill="#debc79"/>
+<text x="161" y="238" font-family="sans-serif" font-size="16" fill="#edebda" text-anchor="end">CSS</text>
+<circle cx="224.34936490538902" cy="171.5" r="3" stroke="#f0d097" stroke-width="1" fill="#debc79"/>
+<text x="161" y="140" font-family="sans-serif" font-size="16" fill="#edebda" text-anchor="end">JavaScript</text>
+<text x="520" y="89" font-family="sans-serif" font-size="17" fill="#f4e8cf" >HTML</text>
+<rect x="635" y="79" width="234" height="7" fill="#494035"/>
+<rect x="635" y="79" width="234" height="7" fill="#66d9aa"/>
+<text x="900" y="89" font-family="monospace" font-size="17" fill="#fff1cd" >3</text>
+<text x="520" y="126" font-family="sans-serif" font-size="17" fill="#f4e8cf" >Python</text>
+<rect x="635" y="116" width="234" height="7" fill="#494035"/>
+<rect x="635" y="116" width="156" height="7" fill="#7fc5a1"/>
+<text x="900" y="126" font-family="monospace" font-size="17" fill="#fff1cd" >2</text>
+<text x="520" y="163" font-family="sans-serif" font-size="17" fill="#f4e8cf" >TypeScript</text>
+<rect x="635" y="153" width="234" height="7" fill="#494035"/>
+<rect x="635" y="153" width="156" height="7" fill="#9fb989"/>
+<text x="900" y="163" font-family="monospace" font-size="17" fill="#fff1cd" >2</text>
+<text x="520" y="200" font-family="sans-serif" font-size="17" fill="#f4e8cf" >Java</text>
+<rect x="635" y="190" width="234" height="7" fill="#494035"/>
+<rect x="635" y="190" width="78" height="7" fill="#d5b77d"/>
+<text x="900" y="200" font-family="monospace" font-size="17" fill="#fff1cd" >1</text>
+<text x="520" y="237" font-family="sans-serif" font-size="17" fill="#f4e8cf" >CSS</text>
+<rect x="635" y="227" width="234" height="7" fill="#494035"/>
+<rect x="635" y="227" width="78" height="7" fill="#cba57a"/>
+<text x="900" y="237" font-family="monospace" font-size="17" fill="#fff1cd" >1</text>
+<text x="520" y="274" font-family="sans-serif" font-size="17" fill="#f4e8cf" >JavaScript</text>
+<rect x="635" y="264" width="234" height="7" fill="#494035"/>
+<rect x="635" y="264" width="78" height="7" fill="#b68e72"/>
+<text x="900" y="274" font-family="monospace" font-size="17" fill="#fff1cd" >1</text>
+<text x="32" y="321" font-family="sans-serif" font-size="15" fill="#adc2b1" >Each ring = 1 repository</text>
+<text x="519" y="321" font-family="sans-serif" font-size="15" fill="#cabcaa" >Primary language  /  20 Nov 2026</text>
+</svg>

@@ -1,26 +1,37 @@
-# ![Saloni Pandey](assets/profile-banner.svg)
+<p align="center">
+  <img src="assets/profile-banner.svg" width="100%" alt="Saloni Pandey · Aspiring data analyst · Mathura, India">
+</p>
 
-I'm a B.Tech Computer Science and Engineering student at Sanskriti University in Mathura, India. I'm preparing for data analyst internships and entry-level roles.
+<h2 align="center">About me</h2>
 
-[LinkedIn](https://www.linkedin.com/in/saloni-pandey-56b216290/) · [Email](mailto:salonipandey0716@gmail.com) · [Portfolio source](https://github.com/salonipandey-dev/myportfolio)
+I'm **Saloni**, a B.Tech Computer Science and Engineering student at Sanskriti University. I’m looking for data analyst internships and entry-level roles. I like questions I can test with data. For my fictional café, the first one is simple: **does the busiest hour also bring in the most revenue?**
 
-## What I'm working on
+- **At the café** · I’m planning an analysis of order volume and sales by hour using SQL, Excel, and Power BI.
+- **In Python** · I’m practicing exploratory analysis with pandas and checking how missing values affect the answer.
+- **In Java** · I work through [DSA problems](https://github.com/salonipandey-dev/Java-/tree/main/dsajava), test edge cases, and compare time and space complexity.
+- **After hours** · Crochet, K-dramas, and a good cup of coffee.
 
-I'm learning to clean data, answer business questions with SQL, and present the results in Excel and Power BI. I'm also practicing exploratory analysis in Python with pandas and using statistics to check what the data can support.
+<h2 align="center">Selected projects</h2>
 
-For my analytics portfolio, I want to use a fictional café orders dataset to find which drinks sell best and when orders peak. The goal is to publish the SQL queries, a dashboard, and a short write-up explaining the findings and their limits.
+**[MedAssist](https://github.com/salonipandey-dev/MedAssist)** · My major project. Its searchable consultation directory helps people explore care options. I’m building the prototype with React, FastAPI, and PostgreSQL.
 
-I also practice [data structures and algorithms in Java](https://github.com/salonipandey-dev/Java-/tree/main/dsajava). I start with a solution I can explain, test edge cases, and look for ways to improve its time or space complexity.
+**[ResQPaws](https://github.com/salonipandey-dev/ResQPaws)** · An animal rescue coordination prototype. Follow a demo report from the first sighting through case closure.
 
-## Projects
+<h2 align="center">Languages &amp; activity</h2>
 
-- **[MedAssist](https://github.com/salonipandey-dev/MedAssist)** is my B.Tech project, a healthcare navigation and patient management prototype. It includes a searchable consultation directory and demo patient profiles, built with React, FastAPI, and PostgreSQL.
-- **[ResQPaws](https://github.com/salonipandey-dev/ResQPaws)** is an animal rescue coordination prototype. Its demo lets you explore how a rescue team could track a report from first sighting to case closure.
+<p align="center">
+  <a href="https://github.com/salonipandey-dev?tab=repositories"><img width="100%" src="assets/language-dashboard.svg" alt="Public repository primary languages on 20 Nov 2026: HTML 3, Python 2, TypeScript 2, Java 1, CSS 1, JavaScript 1"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/salonipandey-dev#contribution-activity"><img width="100%" alt="View my GitHub contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=salonipandey-dev&amp;days=30&amp;bg_color=102820&amp;color=e8d8b6&amp;title_color=debc79&amp;line=66d9aa&amp;point=debc79&amp;area=true&amp;area_color=277a58&amp;hide_border=true&amp;radius=0&amp;custom_title=Contributions%20over%20the%20last%2030%20days"></a>
+</p>
 
-## GitHub activity
+<h2 align="center">Get in touch</h2>
 
-<a href="https://github.com/salonipandey-dev#contribution-activity"><img width="100%" alt="Daily GitHub contributions over the last 30 days" src="https://github-readme-activity-graph.vercel.app/graph?username=salonipandey-dev&amp;days=30&amp;bg_color=161627&amp;color=e8e5fa&amp;title_color=e8e5fa&amp;line=b7a5fa&amp;point=91c9ff&amp;area=true&amp;area_color=b7a5fa&amp;hide_border=true&amp;radius=12&amp;custom_title=Last%2030%20days"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/saloni-pandey-56b216290/"><strong>LinkedIn</strong></a> &nbsp;·&nbsp;
+  <a href="mailto:salonipandey0716@gmail.com"><strong>Email me</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/salonipandey-dev/myportfolio"><strong>Portfolio source</strong></a>
+</p>
 
-<img width="340" alt="Top languages by repository, shown as a doughnut chart" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salonipandey-dev&amp;theme=tokyonight">
-
-Outside coding, I enjoy crochet, K-dramas, and a good cup of coffee.
+<img src="assets/night-landscape.svg" width="100%" alt="">
